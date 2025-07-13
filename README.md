@@ -7,8 +7,8 @@ This interactive Streamlit app estimates the market value of a car based on key 
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghoshank__Gupta-blue?logo=linkedin)](https://www.linkedin.com/in/ghoshank-gupta)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Ghoshank__Gupta-blue?logo=kaggle)](https://www.kaggle.com/ghoshank)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghoshank-blue?logo=linkedin)](https://www.linkedin.com/in/ghoshankghoshank/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Ghoshank__-blue?logo=kaggle)](https://www.kaggle.com/Ghoshank)
 
 ---
 
