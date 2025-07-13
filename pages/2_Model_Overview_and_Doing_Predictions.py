@@ -5,7 +5,7 @@ import sys
 import os
 from sklearn import set_config
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+# sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from src.preprocessor_and_predictor_ import LabelMapper
 st.set_page_config(layout="wide")
 @st.cache_data
