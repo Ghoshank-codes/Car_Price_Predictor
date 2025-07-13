@@ -1,7 +1,7 @@
 # 🚗 Car Price Predictor
 
 Welcome to the **Car Price Predictor Web App**!  
-This interactive Streamlit app estimates the resale value of a car based on key features like brand, fuel type, engine size, and more.
+This interactive Streamlit app estimates the market value of a car based on key features like brand, fuel type, engine size, and more.
 
 > **Note:** This is a personal learning project and is not suitable for real-world commercial use.
 
@@ -64,12 +64,12 @@ To do so, they’ve partnered with a consulting firm that gathered data on vario
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Ghoshank-codes/Car_Price_Predictor.git
-   cd Car_Price_Predictor
+>  git clone https://github.com/Ghoshank-codes/Car_Price_Predictor.git
+>  cd Car_Price_Predictor
 2. **Create and Activate Virtual Environment**
-    python -m venv venv
-    venv\Scripts\activate      # On Windows
-    source venv/bin/activate   # On macOS/Linux
+>   python -m venv venv
+>   venv\Scripts\activate      # On Windows
+>   source venv/bin/activate   # On macOS/Linux
 3. **Install Requirements**
     pip install -r requirements.txt
 4. **Run the Streamlit App**
@@ -78,8 +78,8 @@ To do so, they’ve partnered with a consulting firm that gathered data on vario
 
 ## 👨‍💻 Author
 **Ghoshank**
-(📎 Linkedin)[https://www.linkedin.com/in/ghoshankghoshank/]
-(📊 Kaggel)[https://www.kaggle.com/Ghoshank]
+[📎 Linkedin](https://www.linkedin.com/in/ghoshankghoshank/)
+[📊 Kaggel](https://www.kaggle.com/Ghoshank)
 
 ## ⚠️ Disclaimer
 
