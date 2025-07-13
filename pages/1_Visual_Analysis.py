@@ -84,7 +84,7 @@ The data visualizations above help us uncover important patterns in the car resa
 - These may be rare cases like vintage cars, poorly maintained vehicles, or high-performance models with niche appeal.
 
 ### 🧠 Business Takeaway:
-- **Resellers** may want to focus on reliable, popular brands like Toyota for fast turnover.
+- **Sellers** may want to focus on reliable, popular brands like Toyota for fast turnover.
 - **Luxury brands**, though fewer in number, offer **higher profit margins**.
 - Buyers concerned with safety and family needs tend to prefer four-door, low-symboling cars.
 """)
