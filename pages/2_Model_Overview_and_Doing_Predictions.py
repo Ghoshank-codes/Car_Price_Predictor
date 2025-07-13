@@ -189,7 +189,7 @@ with st.expander("ℹ Feature Descriptions"):
 *Mileage (MPG) on highways.*
 
 **price**  
-*(Target) The resale price of the car.*
+*(Target) The price of the car.*
 """)
 if button:
     input_data = {
