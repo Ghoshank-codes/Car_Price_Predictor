@@ -72,7 +72,7 @@ with st.expander("🔍 See Full Pipeline CodeFlow"):
     st.write(model)
 
 st.divider()
-st.header("So now , lets start predicting some prices with Our Blast Model")
+st.header("🎯 Now it’s your turn — let’s predict car resale prices with our blazing-fast model!")
 
 Brand = st.selectbox("Select Brand", sorted(brand_model_map.keys()))
 available_models = list(brand_model_map[Brand])
