@@ -81,7 +81,7 @@ To do so, they’ve partnered with a consulting firm that gathered data on vario
 
 ## 👨‍💻 Author
 **Ghoshank**
-> [📎 Linkedin](https://www.linkedin.com/in/ghoshankghoshank/)
+> [📎 Linkedin](https://www.linkedin.com/in/ghoshankghoshank/)  
 > [📊 Kaggel](https://www.kaggle.com/Ghoshank)
 
 ## ⚠️ Disclaimer
