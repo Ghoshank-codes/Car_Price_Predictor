@@ -5,12 +5,17 @@ import sys
 import os
 from sklearn import set_config
 
-# sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from src.preprocessor_and_predictor_ import LabelMapper
 st.set_page_config(layout="wide")
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/cleaned_data.csv")
+    try:
+        return pd.read_csv("data/cleaned_data.csv")
+    except FileNotFoundError:
+        st.error("❌ Data file not found. Make sure 'data/cleaned_data.csv' exists.")
+        return pd.DataFrame()
+    
 df = load_data()
 
 @st.cache_resource
