@@ -40,7 +40,7 @@ I'm actively improving it to:
 ---
 ### 📊 **Explore the App**
 - 🔍 Visit **Model Overview** to learn how the model was built
-- 🧮 Try the **Prediction Tool** to estimate resale prices
+- 🧮 Try the **Prediction Tool** to estimate sale prices
 - 📚 Learn about each feature via tooltips and glossaries
 - 💬 Feedback & feature suggestions are welcome!
 
