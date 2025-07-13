@@ -84,10 +84,4 @@ To do so, they’ve partnered with a consulting firm that gathered data on vario
 > [📎 Linkedin](https://www.linkedin.com/in/ghoshankghoshank/)  
 > [📊 Kaggel](https://www.kaggle.com/Ghoshank)
 
-## ⚠️ Disclaimer
-
-This is a **version 1.0 prototype** made strictly for **educational purposes**.
-
-In future versions, I plan to simplify the form and only ask for **essential features**, making it easier for users to get predictions without needing every technical car detail.
-
 > 🚫 Do not rely on this model for real-world financial or business decisions.

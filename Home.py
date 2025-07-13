@@ -52,7 +52,6 @@ I'm actively improving it to:
 ---
 """)
 
-st.success("🚧 Work in progress: More features, better predictions, and simplified input coming soon!")
 
 st.markdown("Made with ❤️ by Ghoshank — ML Enthusiast | For academic use only.")
 st.markdown("---")
