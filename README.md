@@ -64,22 +64,25 @@ To do so, they’ve partnered with a consulting firm that gathered data on vario
 
 1. **Clone the Repository**
    ```bash
->  git clone https://github.com/Ghoshank-codes/Car_Price_Predictor.git
->  cd Car_Price_Predictor
+    git clone https://github.com/Ghoshank-codes/Car_Price_Predictor.git
+    cd Car_Price_Predictor
 2. **Create and Activate Virtual Environment**
->   python -m venv venv
->   venv\Scripts\activate      # On Windows
->   source venv/bin/activate   # On macOS/Linux
+   ```bash
+    python -m venv venv
+    venv/Scripts/activate      # On Windows
+    source venv/bin/activate   # On macOS/Linux
 3. **Install Requirements**
+   ```bash
     pip install -r requirements.txt
 4. **Run the Streamlit App**
+   ```bash
     streamlit run app/Home.py
 
 
 ## 👨‍💻 Author
 **Ghoshank**
-[📎 Linkedin](https://www.linkedin.com/in/ghoshankghoshank/)
-[📊 Kaggel](https://www.kaggle.com/Ghoshank)
+> [📎 Linkedin](https://www.linkedin.com/in/ghoshankghoshank/)
+> [📊 Kaggel](https://www.kaggle.com/Ghoshank)
 
 ## ⚠️ Disclaimer
 
