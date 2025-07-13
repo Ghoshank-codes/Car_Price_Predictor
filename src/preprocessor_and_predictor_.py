@@ -8,6 +8,8 @@ import pandas as pd
 import numpy as np
 pd.set_option("display.max_columns", None)
 
+import os
+
 # Library to avoid warnings
 import warnings
 warnings.filterwarnings('ignore')
@@ -39,7 +41,7 @@ class LabelMapper(BaseEstimator,TransformerMixin):
     
 # This class will be used to encode Brand name and Model Name , For this we requires a map 
 
-df=pd.read_csv("E:/Projects_ML/Cohort/Car_Price_Predictor/data/cleaned_data.csv")
+df = pd.read_csv(os.path.join("data", "cleaned_data.csv"))
 
 X=df.drop("price",axis=1)
 y=df["price"]
