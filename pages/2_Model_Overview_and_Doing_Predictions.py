@@ -3,7 +3,6 @@ import pandas as pd
 import joblib
 import sys
 import os
-import graphviz
 from sklearn import set_config
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
