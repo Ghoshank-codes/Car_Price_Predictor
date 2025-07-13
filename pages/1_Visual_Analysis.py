@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+import os
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 @st.cache_data
 def load_data():
     return pd.read_csv("data/cleaned_data.csv")
